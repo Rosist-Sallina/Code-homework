@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\123\OneDrive - mails.tsinghua.edu.cn\Litter box\Code\上机任务作业\第四次\Project2\FileName.cpp(44,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\123\OneDrive - mails.tsinghua.edu.cn\Litter box\Code\上机任务作业\第四次\Project2\FileName.cpp(66,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\123\OneDrive - mails.tsinghua.edu.cn\Litter box\Code\上机任务作业\第四次\Project2\FileName.cpp(81,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\123\OneDrive - mails.tsinghua.edu.cn\Litter box\Code\上机任务作业\第四次\Project2\FileName.cpp(320,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project2.vcxproj -> C:\Users\123\OneDrive - mails.tsinghua.edu.cn\Litter box\Code\上机任务作业\第四次\Project2\x64\Debug\Project2.exe
