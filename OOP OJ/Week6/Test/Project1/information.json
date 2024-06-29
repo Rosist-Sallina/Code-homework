@@ -1,0 +1,23 @@
+{
+    "C++": "JSON",
+    "contributor": [
+        "nlohmann",
+        "theodelrieu",
+        ".etc"
+    ],
+    "license": [
+        "MIT",
+        "GPL",
+        "GNU"
+    ],
+    "name": "nlohmann",
+    "object": {
+        "currency": "USD",
+        "value": 42.99
+    },
+    "pair": [
+        1,
+        "one"
+    ],
+    "stars": 10
+}
