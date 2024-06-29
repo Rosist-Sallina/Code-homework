@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\123\OneDrive - mails.tsinghua.edu.cn\Litter box\Code\OOP OJ\2024 OJ\editor.h(43,41): warning C4267: “=”: 从“size_t”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\123\OneDrive - mails.tsinghua.edu.cn\Litter box\Code\OOP OJ\2024 OJ\editor.h(45,39): warning C4267: “=”: 从“size_t”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\123\OneDrive - mails.tsinghua.edu.cn\Litter box\Code\OOP OJ\2024 OJ\editor.h(51,51): warning C4267: “=”: 从“size_t”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\123\OneDrive - mails.tsinghua.edu.cn\Litter box\Code\OOP OJ\2024 OJ\editor.h(59,31): warning C4267: “+=”: 从“size_t”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\123\OneDrive - mails.tsinghua.edu.cn\Litter box\Code\OOP OJ\2024 OJ\editor.h(77,41): warning C4267: “=”: 从“size_t”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=int
+          ]
+  2024 OJ.vcxproj -> C:\Users\123\OneDrive - mails.tsinghua.edu.cn\Litter box\Code\OOP OJ\2024 OJ\x64\Debug\2024 OJ.exe
